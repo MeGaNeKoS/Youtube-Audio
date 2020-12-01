@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Youtube Audio Mode
-// @namespace 	https://github.com/MeGaNeKoS/Mirror-Creator-Link-Checker
+// @namespace 	https://github.com/MeGaNeKoS
 // @description Listen to only the audio on YouTube without loading the video.
 // @version     1.0
 // @include     https://www.youtube.com/*
